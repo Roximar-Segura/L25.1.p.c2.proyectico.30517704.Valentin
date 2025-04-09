@@ -1,6 +1,6 @@
 /* General Styles for sections */
 section {
-    border: 2px solid rgb(17, 1, 65);;
+    border: 2px solid rgb(58, 139, 231);;
     margin-top: 10px;
     display: inline-block; /* Mostrar las secciones una junto a la otra */
     vertical-align: top; /* Alineación superior */
@@ -20,7 +20,7 @@ section {
   }
   
   td {
-    border: 1px solid black;
+    border: 1px solid rgba(14, 178, 215, 0.842);
     text-align: center;
   }
   

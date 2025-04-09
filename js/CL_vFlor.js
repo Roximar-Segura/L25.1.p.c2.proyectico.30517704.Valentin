@@ -16,7 +16,7 @@ export default class vFlor{
     }
 
     get costBase(){
-        return this.inCostBase.value;
+        return + this.inCostBase.value;
     }
 
     get tipo(){
